@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DNS IR</string>
+    <string name="connect">اتصال</string>
+    <string name="disconnect">قطع اتصال</string>
+    <string name="connected">متصل شد</string>
+    <string name="disconnected">قطع شده</string>
+    <string name="connecting">در حال اتصال…</string>
+    <string name="select_dns">انتخاب DNS</string>
+    <string name="home">خانه</string>
+    <string name="dns_list">لیست DNS</string>
+    <string name="about">درباره ما</string>
+    <string name="ping_low">پینگ پایین • اتصال پایدار</string>
+    <string name="app_slogan">کاهش پینگ برای گیمرهای ایرانی</string>
+    <string name="developers">سازندگان</string>
+    <string name="developer_names">ابوالفضل مرگانی و عرشیا ولی‌زاده</string>
+    <string name="instagram">اینستاگرام</string>
+    <string name="no_dns_selected">هیچ DNS انتخاب نشده</string>
+    <string name="loading_list">در حال دریافت لیست DNS…</string>
+    <string name="fetch_error">خطا در دریافت لیست، لیست پیش‌فرض نمایش داده شد</string>
+    <string name="vpn_permission_denied">اجازه VPN داده نشد</string>
+</resources>
